@@ -11,7 +11,7 @@
 ## Printing List
 | Quantity | Part Name | Description |
 | -------- | --------- | ----------- |
-| 1 | [Front Chassis] (cad/Front_Chassis.step) | Main structural front frame holding servo, steering linkages, and front suspension system|
+| 1 | [Front Chassis](cad/Front_Chassis.step) | Main structural front frame holding servo, steering linkages, and front suspension system|
 | 1 | Rear Chassis | Main structural rear frame holding motor, belt drive, and rear suspension system|
 | 1 | Right Reinforcement Beam | Connects front chassis to rear chassis |
 | 1 | Left Reinforcement Beam | Connects front chassis to rear chassis |
