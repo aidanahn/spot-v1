@@ -1,11 +1,17 @@
 # spot-v1
 
 ## Table of Contents
-1. [Milo](#milo-wip)
-2. [Screw List](#screw-list)
-3. [Printing List](#printing-list)
-4. [Printing Orientations](#printing-orientations)
-5. [License](#license)
+1. [Description](#description)
+2.  [Milo](#milo-wip)
+3. [Screw List](#screw-list)
+4. [Printing List](#printing-list)
+5. [Printing Orientations](#printing-orientations)
+6. [License](#license)
+
+## Description
+A fast and reliable 4WD 3D-printable RC car design
+
+Assembly: [Link](https://cad.onshape.com/documents/7f341d22941a2e14df29ce4a/w/e412618fee4bd938372718a9/e/cd4b9ad8284ddeb69a4dfc13?renderMode=0&uiState=691793aec6ca6b3e90eb03d7)
 
 ## Milo (WIP)
 Track & Field pacer designed to run consistent lap times and help with pacing during training (Uses the same car design from Spot V1).
