@@ -36,6 +36,12 @@
 | 1 | [Steering Mount](cad/Steering_Mount.step) | Allows the steering linkage to pivot around its axis |
 
 ## Printing Orientations
+### Front Chassis
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** Yes (Manual)
+- **Material:** PETG
 ![Front Chassis](print-orientation-previews/front-chassis.png)
 ![Rear Chassis](print-orientation-previews/rear-chassis.png)
 ![Right Reinforcement Beam](print-orientation-previews/right-reinforcement-beam.png)
