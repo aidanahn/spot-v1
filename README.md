@@ -41,7 +41,8 @@
 - **Layer Height:** 0.2mm
 - **Infill:** 30% (Gyroid)
 - **Supports:** Yes (Manual)
-- **Material:** PETG
+- **Material:** PETG<br>
+
 ![Front Chassis](print-orientation-previews/front-chassis.png)
 ![Rear Chassis](print-orientation-previews/rear-chassis.png)
 ![Right Reinforcement Beam](print-orientation-previews/right-reinforcement-beam.png)
