@@ -2,14 +2,31 @@
 
 ## Table of Contents
 1. [Milo](#milo-wip)
-2. [Printing List](#printing-list)
-3. [Printing Orientations](#printing-orientations)
-4. [License](#license)
+2. [Screw List](#screw-list)
+3. [Printing List](#printing-list)
+4. [Printing Orientations](#printing-orientations)
+5. [License](#license)
 
 ## Milo (WIP)
 Track & Field pacer designed to run consistent lap times and help with pacing during training (Uses the same car design from Spot V1).
 
 Check the project out here: (https://github.com/aidanahn/pacer_v3_control)
+
+## Fastener List
+| Quantity | Size | Length | Head | Type |
+| -------- | ---- | ------ | ---- | ---- |
+| 20 | M3 | 16mm | Socket Head | Screw |
+| 18 | M3 | 12mm | Socket Head | Screw |
+| 12 | M3 | 12mm | Button Head | Screw |
+| 2 | M3 | 20mm | Socket Head | Screw |
+| 11 | M3 | 25mm | Socket Head | Screw |
+| 8 | M3 | 35mm | Socket Head | Screw |
+| 6 | M3 | | | Washer |
+| 16 | M3 | 4mm | Socket Head | Screw |
+| 12 | M3 | | Nut |
+| 4 | M3 | 8mm | Button Head | Screw |
+| 4 | M3 | 16mm | Button Head | Screw |
+| 4 | M4 | 20mm | Socket Head | Screw |
 
 ## Printing List
 | Quantity | Part Name | Description |
