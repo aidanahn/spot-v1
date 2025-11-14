@@ -1,9 +1,15 @@
 # spot-v1
 
 ## Table of Contents
-1. [Printing List](#printing-list)
-2. [Printing Orientations](#printing-orientations)
-3. [License](#license)
+1. [Milo](#milo)
+2. [Printing List](#printing-list)
+3. [Printing Orientations](#printing-orientations)
+4. [License](#license)
+
+## Milo
+Track & Field pacer designed to run consistent lap times and help with pacing during training
+
+Check the project out here: (https://github.com/aidanahn/pacer_v3_control)
 
 ## Printing List
 | Quantity | Part Name | Description |
