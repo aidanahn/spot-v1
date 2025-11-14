@@ -41,28 +41,204 @@
 - **Layer Height:** 0.2mm
 - **Infill:** 30% (Gyroid)
 - **Supports:** Yes (Manual)
-- **Material:** PETG<br>
+- **Material:** PETG
 
 ![Front Chassis](print-orientation-previews/front-chassis.png)
+
+### Rear Chassis
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** Yes (Manual)
+- **Material:** PETG
+
 ![Rear Chassis](print-orientation-previews/rear-chassis.png)
+
+### Right Reinforcement Beam
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** No
+- **Material:** PETG
+
 ![Right Reinforcement Beam](print-orientation-previews/right-reinforcement-beam.png)
+
+### Left Reinforcement Beam
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** No
+- **Material:** PETG
+
 ![Left Reinforcement Beam](print-orientation-previews/left-reinforcement-beam.png)
+
+### Lower Differential Case
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** Yes (Manual)
+- **Material:** PETG
+
 ![Lower Differential Case](print-orientation-previews/lower-differential-case.png)
+
+### Upper Differential Case
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** Yes (Manual)
+- **Material:** PETG
+
 ![Upper Differential Case](print-orientation-previews/upper-differential-case.png)
+
+### Upper Control Arm Bracket
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** No
+- **Material:** PETG
+
 ![Upper Control Arm Bracket](print-orientation-previews/upper-control-arm-bracket.png)
+
+### Upper Control Arm
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** No
+- **Material:** PETG
+
 ![Upper Control Arm](print-orientation-previews/upper-control-arm.png)
+
+### Lower Control Arm
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** No
+- **Material:** PETG
+
 ![Lower Control Arm](print-orientation-previews/lower-control-arm.png)
+
+### Electronics Bed
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** No
+- **Material:** PETG
+
 ![Electronics Bed](print-orientation-previews/electronics-bed.png)
+
+### Differential Drive Cup Adapter
+**Recommended Print Settings:**
+- **Layer Height:** 0.1mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** Yes (Automatic)
+- **Material:** PETG
+
 ![Differential Drive Cup Adapter](print-orientation-previews/differential-drive-cup-adapter.png)
+
+### Differential Drive Cup
+**Recommended Print Settings:**
+- **Layer Height:** 0.1mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** Yes (Automatic)
+- **Material:** PETG
+
 ![Differential Drive Cup](print-orientation-previews/differential-drive-cup.png)
+
+### Front Upright
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** Yes (Manual)
+- **Material:** PETG
+
 ![Front Upright](print-orientation-previews/front-upright.png)
+
+### Rear Upright
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** Yes (Manual)
+- **Material:** PETG
+
 ![Rear Upright](print-orientation-previews/rear-upright.png)
+
+### Pinion Carrier
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** No
+- **Material:** PETG
+
 ![Pinion Carrier](print-orientation-previews/pinion-carrier.png)
+
+### Steering Knuckle
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** Yes (Manual)
+- **Material:** PETG
+
 ![Steering Knuckle](print-orientation-previews/steering-knuckle.png)
+
+### Servo Mount
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** Yes (Manual)
+- **Material:** PETG
+
 ![Servo Mount](print-orientation-previews/servo-mount.png)
+
+### Servo Steering Linkage
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** No
+- **Material:** PETG
+
 ![Servo Steering Linkage](print-orientation-previews/servo-steering-linkage.png)
+
+### Steering Bar
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** No
+- **Material:** PETG
+
 ![Steering Bar](print-orientation-previews/steering-bar.png)
+
+### Steering Linkage
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** No
+- **Material:** PETG
+
 ![Steering Linkage](print-orientation-previews/steering-linkage.png)
+
+### Wheel Drive Cup
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** Yes (Automatic)
+- **Material:** PETG
+
 ![Wheel Drive Cup](print-orientation-previews/wheel-drive-cup.png)
+
+### Wheel Hub
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** No
+- **Material:** PETG
+
 ![Wheel Hub](print-orientation-previews/wheel-hub.png)
+
+### Steering Mount
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** No
+- **Material:** PETG
+
 ![Steering Mount](print-orientation-previews/steering-mount.png)
