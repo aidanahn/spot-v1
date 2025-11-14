@@ -7,7 +7,7 @@
 
 ## Bill of Materials (BOM)
 | Quantity | Part Name | Specifications | What I Specifically Used |
-| -------- | --------- | -------------- | 
+| -------- | --------- | -------------- | ------------------------ |
 | 4 | Wheels | Must have 14mm hex to work with stock wheel hubs | [Pro-line Racing Mirage TT 2.2"/3.0" Belted SC Tires Mounted on Raid Black 6x30 Removable Hex 12mm & 14mm Wheels 2 PRO1024811](https://www.amazon.com/gp/product/B0DJCK2HRW/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&psc=1) (EXPENSIVE) |
 | 1 | Electronic Speed Controller (ESC) | | My motor had an integrated ESC design |
 | 19 | 10x15x4mm Bearings | | [uxcell 20pcs 6700-2RS Miniature Deep Groove Ball Bearings 10x15x4mm Double Sealed Bearings (Black) for Electric Motor, Home Appliances, Machinery, P6 (ABEC 3)](https://www.amazon.com/uxcell-Miniature-10x15x4mm-Appliances-Machinery/dp/B0DCP34B1W/ref=sr_1_4?dib=eyJ2IjoiMSJ9.CSQeSABBo8m54f7dGYjQrCJ73Tj7V6I5TyH3S1sPj_6GJKJvsXY_I9hpo5GlnL-zg5W-NnUrrmf6RgMs-GQmXhw6kZLIcOjCQz_h_HL7oCzyGIF6IDg7kGH7lLJCOtqrlIj3hoqQexGGliyNmgj66_VFa5-s52DPiskYvh0nly7Fn3R193Tf05gkKe-B98uvjvipDEOZz9D_XfGN8iExXNus4sG0wd0FCtLu7r5uklQ.MRtb1rx2KA65PZslj3u0flJFpr_-65j1KpaWVwgLBcc&dib_tag=se&keywords=10x15x4&qid=1763082662&sr=8-4&th=1) |
