@@ -258,7 +258,7 @@ Check the project out here: (https://github.com/aidanahn/pacer_v3_control)
 - **Supports:** Yes (Automatic)
 - **Material:** PETG
 
-![Steering Mount](print-orientation-previews/steering-mount.png)
+![Steering Mount](print-orientation-previews/dogbone.png)
 
 ## License
 This work is licensed under a [MIT License](LICENSE).
