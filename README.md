@@ -40,6 +40,7 @@
 | 1 | [Motor Shaft Adapter](cad/Motor_Shaft_Adapter.step) | Adapts motor shaft to the timing pulley |
 | 4 | [Wheel Drive Cup](cad/Wheel_Drive_Cup.step) | Connects wheel hubs to the differential output cups |
 | 4 | [Wheel Hub](cad/Wheel_Hub.step) | Mounting point for wheels |
+| 1 | [Steering Mount](cad/Steering_Mount.step) | Allows the steering linkage to pivot around its axis |
 
 ## Printing Orientations
 ![Front Chassis Orientation](print-orientation-previews/front-chassis.png)
