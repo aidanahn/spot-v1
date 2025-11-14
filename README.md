@@ -61,4 +61,4 @@ Note: The parts I personally used do NOT have to be the parts you use. Many item
 | 4 | [Wheel Hub](cad/Wheel_Hub.step) | Mounting point for wheels |
 
 ## Printing Orientations
-(Write Here)
+![Front Chassis Orientation](print-orientation-previews/front-chassis.png)
