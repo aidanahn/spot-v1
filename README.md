@@ -23,10 +23,11 @@ Check the project out here: (https://github.com/aidanahn/pacer_v3_control)
 | 8 | M3 | 35mm | Socket Head | Screw |
 | 6 | M3 | | | Washer |
 | 16 | M3 | 4mm | Socket Head | Screw |
-| 12 | M3 | | Nut |
+| 12 | M3 | | | Nut |
 | 4 | M3 | 8mm | Button Head | Screw |
 | 4 | M3 | 16mm | Button Head | Screw |
 | 4 | M4 | 20mm | Socket Head | Screw |
+| 4 | M4 | | | Nylon Locknut |
 
 ## Printing List
 | Quantity | Part Name | Description |
