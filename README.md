@@ -6,6 +6,9 @@
 3. Printing Orientations
 
 ## Bill of Materials (BOM)
+
+Note: The parts I personally used do NOT have to be the parts you use. Many items listed here were chosen for convenience (Amazon), not price optimization—I definitely spent more than necessary. Feel free to substitute cheaper or alternative components as long as they meet the listed specifications.
+
 | Quantity | Part Name | Specifications | What I Specifically Used |
 | -------- | --------- | -------------- | ------------------------ |
 | 4 | Wheels | Must have 14mm hex to work with stock wheel hubs | [Pro-line Racing Mirage TT 2.2"/3.0" Belted SC Tires Mounted on Raid Black 6x30 Removable Hex 12mm & 14mm Wheels 2 PRO1024811](https://www.amazon.com/gp/product/B0DJCK2HRW/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&psc=1) (EXPENSIVE) |
