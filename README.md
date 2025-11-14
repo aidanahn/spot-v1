@@ -21,7 +21,10 @@
 | 1 | [Rear Belt Housing](cad/Rear_Belt_Housing.step) | Protective housing for belt drive system |
 | 1 | [Front Belt Housing](cad/Front_Belt_Housing.step) | Protective housing for belt drive system |
 | 4 | [Upper Control Arm](cad/Upper_Control_Arm.step) | Upper suspension arm that connects uprights to the chassis |
-| 4 | Lower Control Arm | Lower suspension arm that connects uprights to the chassis |
+| 1 | [Rear Left Lower Control Arm](cad/Rear_Left_Lower_Control_Arm.step) | Lower suspension arm that connects uprights to the chassis |
+| 1 | [Rear Right Lower Control Arm](cad/Rear_Right_Lower_Control_Arm.step) | Lower suspension arm that connects uprights to the chassis |
+| 1 | [Front Left Lower Control Arm](cad/Front_Left_Lower_Control_Arm.step) | Lower suspension arm that connects uprights to the chassis |
+| 1 | [Front Right Lower Control Arm](cad/Front_Right_Lower_Control_Arm.step) | Lower suspension arm that connects uprights to the chassis |
 | 1 | [Electronics Bed](cad/Electronics_Bed.step) | Strengthens connection between front and rear chassis and acts as mounting plate for electronics (ESC, reciever, LiPo, etc) |
 | 4 | [Differential Drive Cup Adapter](cad/Differential_Drive_Cup_Adapter.step) | Adapter between differential output and drive cup |
 | 4 | [Differential Drive Cup](cad/Differential_Drive_Cup.step) | Cup that connects differential output to drive the wheels |
@@ -32,7 +35,8 @@
 | 2 | [Front Upright](cad/Front_Upright.step) | Front wheel carrier that allows the steering knuckles to pivot and houses the wheel drive cup |
 | 2 | [Rear Upright](cad/Rear_Upright.step) | Rear wheel carrier housing the wheel drive cup |
 | 2 | [Pinion Carrier](cad/Pinion_Carrier.step) | Holds differential pinion gears in place |
-| 2 | Steering Knuckle | Allows wheels to pivot for steerinng input |
+| 1 | [Left Steering Knuckle](cad/Left_Steering_Knuckle.step) | Allows wheels to pivot for steering input |
+| 1 | [Right Steering Knuckle](cad/Right_Steering_Knuckle.step) | Allows wheels to pivot for steering input |
 | 1 | [Servo Mount](cad/Servo_Mount.step) | Holds servo securely in place |
 | 1 | [Servo Steering Linkage](cad/Servo_Steering_Linkage.step) | Transmits servo power to the steering bar |
 | 1 | [Steering Bar](cad/Steering_Bar.step) | Main steering bar linking left and right wheels |
