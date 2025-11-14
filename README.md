@@ -6,7 +6,13 @@
 3. Printing Orientations
 
 ## Bill of Materials (BOM)
-(Write Here)
+| Quantity | Part Name | Specifications |
+| -------- | --------- | -------------- |
+| 4 | Wheels | Must have 14mm hex to work with stock wheel hubs |
+| 1 | Electronic Speed Controller (ESC) | |
+| 19 | 10x15x4mm Bearings | |
+| 4 | M4 Nylon Locknut | |
+| 2 | Differential | Differential case fits [this](https://www.amazon.com/Mirthobby-Housing-Complete-Volcano-Unassembled/dp/B07YWQ7G9Q/ref=sr_1_8?crid=2HGFF58IC6VDG&dib=eyJ2IjoiMSJ9.B135ZhwDRcLHscMuJL3t35FUZ1vcloOZnjXla490Vfs4YTtX5WHwSWlvXnDmm1gaz1vEzGqqNVZI2RQQ6teVsDEb7NizAd6gh5cTlpmtTRNsfqjZdQDu4YdFVJSzQKtfJoVVzPUTEbweSeJ0ymOzxoJzFZYqL8Yj0tx8wry7itpWAimO0vnUFtqDa70ouoHZQxSUy9QBKVngDCu4xAKzS2uzfxJzrVW9AZoyHsvEXeUIFmJDIHGnMSwDvcYdLrRd1iYOyIfZ6lEN14OA9RS2OIvsAPzVcs3REdneZWnxuEM.mKetOsFTOlfqe2do2K_Po0egspEyrikBAXE6hKNAltw&dib_tag=se&keywords=front+differential+1%2F10&qid=1763080322&sprefix=front+differential+1%2F10%2Caps%2C108&sr=8-8) specific differential |
 
 ## Printing List
 | Quantity | Part Name | Description |
