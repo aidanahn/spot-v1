@@ -6,13 +6,15 @@
 3. Printing Orientations
 
 ## Bill of Materials (BOM)
-| Quantity | Part Name | Specifications |
-| -------- | --------- | -------------- |
-| 4 | Wheels | Must have 14mm hex to work with stock wheel hubs |
-| 1 | Electronic Speed Controller (ESC) | |
-| 19 | 10x15x4mm Bearings | |
-| 4 | M4 Nylon Locknut | |
+| Quantity | Part Name | Specifications | What I Specifically Used |
+| -------- | --------- | -------------- | 
+| 4 | Wheels | Must have 14mm hex to work with stock wheel hubs | [Pro-line Racing Mirage TT 2.2"/3.0" Belted SC Tires Mounted on Raid Black 6x30 Removable Hex 12mm & 14mm Wheels 2 PRO1024811](https://www.amazon.com/gp/product/B0DJCK2HRW/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&psc=1) (EXPENSIVE)
+| 1 | Electronic Speed Controller (ESC) | | | My motor had an integrated ESC design |
+| 19 | 10x15x4mm Bearings | | | [uxcell 20pcs 6700-2RS Miniature Deep Groove Ball Bearings 10x15x4mm Double Sealed Bearings (Black) for Electric Motor, Home Appliances, Machinery, P6 (ABEC 3)](https://www.amazon.com/uxcell-Miniature-10x15x4mm-Appliances-Machinery/dp/B0DCP34B1W/ref=sr_1_4?dib=eyJ2IjoiMSJ9.CSQeSABBo8m54f7dGYjQrCJ73Tj7V6I5TyH3S1sPj_6GJKJvsXY_I9hpo5GlnL-zg5W-NnUrrmf6RgMs-GQmXhw6kZLIcOjCQz_h_HL7oCzyGIF6IDg7kGH7lLJCOtqrlIj3hoqQexGGliyNmgj66_VFa5-s52DPiskYvh0nly7Fn3R193Tf05gkKe-B98uvjvipDEOZz9D_XfGN8iExXNus4sG0wd0FCtLu7r5uklQ.MRtb1rx2KA65PZslj3u0flJFpr_-65j1KpaWVwgLBcc&dib_tag=se&keywords=10x15x4&qid=1763082662&sr=8-4&th=1)
+ |
+| 4 | M4 Nylon Locknut | | [M4 Locknuts 100PCS Metric Nylon Inserted Hex Lock Nuts Self-Lock Nylon Insert M4x0.7mm Carbon Steel Self Locking 7mm Hex Nut Driver Tiny Nut for RC Cars 3D Printer](https://www.amazon.com/Locknuts-Inserted-Self-Lock-M4x0-7mm-Locking/dp/B0DFY7G8V3/ref=sr_1_5?crid=1X43XWZTRKFZN&dib=eyJ2IjoiMSJ9.6B0-lnhOxHLLle56ojlHyqTe--2b56wnxc7nwBrh9aQn9bT9s7aT2y7kP_F_5Vp4tjOzipHMQykIAFjHEcdq01GLEjw2ETSJLKPNCjqZkus7-k0vSsUXVrjL-8GiMUL5wi4fZmW16OUxzCsD4q7rsEByDArPqaJI0s6jJI-ZDEoCbvpag8IS0J-HVL8D-ZU-M4eC2fpL94cR2qLtLTZBFMP9c6fLSmd9zFZXFqgQPzA.c6grK5jz8vhpYRfHfnHClLlbLYo_9a9198JuBquJWrk&dib_tag=se&keywords=m4%2Blocknuts&qid=1763082706&sprefix=m4%2Blocknuts%2Caps%2C84&sr=8-5&th=1)
 | 2 | Differential | 3D-printable differential case fits [this](https://www.amazon.com/Mirthobby-Housing-Complete-Volcano-Unassembled/dp/B07YWQ7G9Q/ref=sr_1_8?crid=2HGFF58IC6VDG&dib=eyJ2IjoiMSJ9.B135ZhwDRcLHscMuJL3t35FUZ1vcloOZnjXla490Vfs4YTtX5WHwSWlvXnDmm1gaz1vEzGqqNVZI2RQQ6teVsDEb7NizAd6gh5cTlpmtTRNsfqjZdQDu4YdFVJSzQKtfJoVVzPUTEbweSeJ0ymOzxoJzFZYqL8Yj0tx8wry7itpWAimO0vnUFtqDa70ouoHZQxSUy9QBKVngDCu4xAKzS2uzfxJzrVW9AZoyHsvEXeUIFmJDIHGnMSwDvcYdLrRd1iYOyIfZ6lEN14OA9RS2OIvsAPzVcs3REdneZWnxuEM.mKetOsFTOlfqe2do2K_Po0egspEyrikBAXE6hKNAltw&dib_tag=se&keywords=front+differential+1%2F10&qid=1763080322&sprefix=front+differential+1%2F10%2Caps%2C108&sr=8-8) specific differential |
+| 1 | Servo | Any 35kg servo | [35kg high Torque Coreless Motor servo Metal Gear Digital and Stainless Steel Gear servo arduino servo for Robotic DIY,RC car (Control Angle 180°)](https://www.amazon.com/ZOSKAY-Coreless-Digital-Stainless-arduino/dp/B07SBYZ4G5/ref=sr_1_6?crid=VQ226COSLCW3&dib=eyJ2IjoiMSJ9.nGGXFHlriM7Gy-uccRJxP0a3iFHzeZcmmO2aV-M1t-cBkeXi9Llql-9xqUf9T8b-O47AgHJu443KWktxwmFNkySnPKelLxOgLMzC0fNLxlf_nuLzAxpJLGE3LWS743jxCMzGwxm15-D4w3wre19YhKKGXv62lDQSGm5GQzABaPIsddlnyWDroxcmHvO0evHclTWOAoE73rh9tiqDWUNlRfpKOsWOtB1O6wjqRF-8TJvS2N8bSMhrOp5_GuE8MzLOsdmNHUaaPm4usOcEo1-VSlq8xSHoTlLHjs5jy02T0vM.SLkzSX2bFxze-Z5rTRKG_9C86N3COwNnEEqz2PnF4dc&dib_tag=se&keywords=35kg%2Bservo&qid=1763082741&sprefix=35kg%2Bservo%2Caps%2C103&sr=8-6&th=1)
 
 ## Printing List
 | Quantity | Part Name | Description |
