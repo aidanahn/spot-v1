@@ -38,8 +38,8 @@
 ## Printing Orientations
 ![Front Chassis](print-orientation-previews/front-chassis.png)
 ![Rear Chassis](print-orientation-previews/rear-chassis.png)
-![Right Reinforcement Beam](print-orientation-previews/front-chassis.png)
-![Left Reinforcement Beam](print-orientation-previews/front-chassis.png)
+![Right Reinforcement Beam](print-orientation-previews/right-reinforcement-beam.png)
+![Left Reinforcement Beam](print-orientation-previews/left-reinforcement-beam.png)
 ![Lower Differential Case](print-orientation-previews/lower-differential-case.png)
 ![Upper Differential Case](print-orientation-previews/upper-differential-case.png)
 ![Upper Control Arm Bracket](print-orientation-previews/upper-control-arm-bracket.png)
