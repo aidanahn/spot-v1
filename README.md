@@ -3,6 +3,7 @@
 ## Table of Contents
 1. [Printing List](#printing-list)
 2. [Printing Orientations](#printing-orientations)
+3. [License](#license)
 
 ## Printing List
 | Quantity | Part Name | Description |
@@ -242,3 +243,6 @@
 - **Material:** PETG
 
 ![Steering Mount](print-orientation-previews/steering-mount.png)
+
+## License
+This work is licensed under a [MIT License](LICENSE).
