@@ -14,8 +14,6 @@
 | 2 | [Lower Differential Case](cad/Lower_Differential_Case.step) | Protective housing for differential |
 | 2 | [Upper Differential Case](cad/Upper_Differential_Case.step) | Protective housing for differential |
 | 2 | [Upper Control Arm Bracket](cad/Upper_Control_Arm_Bracket.step) | Mounting bracket for the upper control arms to attach to the chassis |
-| 1 | [Rear Belt Housing](cad/Rear_Belt_Housing.step) | Protective housing for belt drive system |
-| 1 | [Front Belt Housing](cad/Front_Belt_Housing.step) | Protective housing for belt drive system |
 | 4 | [Upper Control Arm](cad/Upper_Control_Arm.step) | Upper suspension arm that connects uprights to the chassis |
 | 1 | [Rear Left Lower Control Arm](cad/Rear_Left_Lower_Control_Arm.step) | Lower suspension arm that connects uprights to the chassis |
 | 1 | [Rear Right Lower Control Arm](cad/Rear_Right_Lower_Control_Arm.step) | Lower suspension arm that connects uprights to the chassis |
@@ -24,10 +22,6 @@
 | 1 | [Electronics Bed](cad/Electronics_Bed.step) | Strengthens connection between front and rear chassis and acts as mounting plate for electronics (ESC, reciever, LiPo, etc) |
 | 4 | [Differential Drive Cup Adapter](cad/Differential_Drive_Cup_Adapter.step) | Adapter between differential output and drive cup |
 | 4 | [Differential Drive Cup](cad/Differential_Drive_Cup.step) | Cup that connects differential output to drive the wheels |
-| 1 | [Front Belt Cup](cad/Front_Belt_Cup.step) | Outputs power to the front differential |
-| 1 | [Rear Belt Cup](cad/Rear_Belt_Cup.step) | Outputs power to the rear differential |
-| 1 | [Front Driveshaft](cad/Front_Driveshaft.step) | Transmits power from the belt drive to the front differential |
-| 1 | [Rear Driveshaft](cad/Rear_Driveshaft.step) | Transmits power from the belt drive to the rear differential |
 | 2 | [Front Upright](cad/Front_Upright.step) | Front wheel carrier that allows the steering knuckles to pivot and houses the wheel drive cup |
 | 2 | [Rear Upright](cad/Rear_Upright.step) | Rear wheel carrier housing the wheel drive cup |
 | 2 | [Pinion Carrier](cad/Pinion_Carrier.step) | Holds differential pinion gears in place |
@@ -37,10 +31,35 @@
 | 1 | [Servo Steering Linkage](cad/Servo_Steering_Linkage.step) | Transmits servo power to the steering bar |
 | 1 | [Steering Bar](cad/Steering_Bar.step) | Main steering bar linking left and right wheels |
 | 1 | [Steering Linkage](cad/Steering_Linkage.step) | Follows same motion as the steering linkage to keep the steering bar in place |
-| 1 | [Motor Shaft Adapter](cad/Motor_Shaft_Adapter.step) | Adapts motor shaft to the timing pulley |
 | 4 | [Wheel Drive Cup](cad/Wheel_Drive_Cup.step) | Connects wheel hubs to the differential output cups |
 | 4 | [Wheel Hub](cad/Wheel_Hub.step) | Mounting point for wheels |
 | 1 | [Steering Mount](cad/Steering_Mount.step) | Allows the steering linkage to pivot around its axis |
 
 ## Printing Orientations
-![Front Chassis Orientation](print-orientation-previews/front-chassis.png)
+![Front Chassis](print-orientation-previews/front-chassis.png)
+![Rear Chassis](print-orientation-previews/front-chassis.png)
+![Right Reinforcement Beam](print-orientation-previews/front-chassis.png)
+![Left Reinforcement Beam](print-orientation-previews/front-chassis.png)
+![Lower Differential Case](print-orientation-previews/front-chassis.png)
+![Upper Differential Case](print-orientation-previews/front-chassis.png)
+![Upper Control Arm Bracket](print-orientation-previews/front-chassis.png)
+![Upper Control Arm](print-orientation-previews/front-chassis.png)
+![Rear Left Lower Control Arm](print-orientation-previews/front-chassis.png)
+![Rear Right Lower Control Arm](print-orientation-previews/front-chassis.png)
+![Front Left Lower Control Arm](print-orientation-previews/front-chassis.png)
+![Front Right Lower Control Arm](print-orientation-previews/front-chassis.png)
+![Electronics Bed](print-orientation-previews/front-chassis.png)
+![Differential Drive Cup Adapter](print-orientation-previews/front-chassis.png)
+![Differential Drive Cup](print-orientation-previews/front-chassis.png)
+![Front Upright](print-orientation-previews/front-chassis.png)
+![Rear Upright](print-orientation-previews/front-chassis.png)
+![Pinion Carrier](print-orientation-previews/front-chassis.png)
+![Left Steering Knuckle](print-orientation-previews/front-chassis.png)
+![Right Steering Knuckle](print-orientation-previews/front-chassis.png)
+![Servo Mount](print-orientation-previews/front-chassis.png)
+![Servo Steering Linkage](print-orientation-previews/front-chassis.png)
+![Steering Bar](print-orientation-previews/front-chassis.png)
+![Steering Linkage](print-orientation-previews/front-chassis.png)
+![Wheel Drive Cup](print-orientation-previews/front-chassis.png)
+![Wheel Hub](print-orientation-previews/front-chassis.png)
+![Steering Mount](print-orientation-previews/front-chassis.png)
