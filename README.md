@@ -41,6 +41,7 @@ Check the project out here: (https://github.com/aidanahn/pacer_v3_control)
 | 4 | [Wheel Drive Cup](cad/Wheel_Drive_Cup.step) | Connects wheel hubs to the differential output cups |
 | 4 | [Wheel Hub](cad/Wheel_Hub.step) | Mounting point for wheels |
 | 1 | [Steering Mount](cad/Steering_Mount.step) | Allows the steering linkage to pivot around its axis |
+| 4 | [Dogbone](cad/Dogbone.step) | Transfers power directly from the differential drive cup to the wheel drive cup |
 
 ## Printing Orientations
 ### Front Chassis
@@ -246,6 +247,15 @@ Check the project out here: (https://github.com/aidanahn/pacer_v3_control)
 - **Layer Height:** 0.2mm
 - **Infill:** 30% (Gyroid)
 - **Supports:** No
+- **Material:** PETG
+
+![Steering Mount](print-orientation-previews/steering-mount.png)
+
+### Dogbone
+**Recommended Print Settings:**
+- **Layer Height:** 0.1mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** Yes (Automatic)
 - **Material:** PETG
 
 ![Steering Mount](print-orientation-previews/steering-mount.png)
