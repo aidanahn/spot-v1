@@ -3,11 +3,12 @@
 ## Table of Contents
 1. [Description](#description)
 2. [Milo](#milo-wip)
-3. [Bill of Materials](#bill-of-materials)
-4. [Fastener List](#fastener-list)
-5. [Printing List](#printing-list)
-6. [Printing Orientations](#printing-orientations)
-7. [License](#license)
+3. [Tools](#tools)
+4. [Bill of Materials](#bill-of-materials)
+5. [Fastener List](#fastener-list)
+6. [Printing List](#printing-list)
+7. [Printing Orientations](#printing-orientations)
+8. [License](#license)
 
 ## Description
 A fast and reliable 4WD 3D-printable RC car design
@@ -18,6 +19,14 @@ Assembly: [Onshape Link](https://cad.onshape.com/documents/7f341d22941a2e14df29c
 Track & Field pacer designed to run consistent lap times and help with pacing during training (Uses the same car design from Spot V1).
 
 Check the project out here: (https://github.com/aidanahn/pacer_v3_control)
+
+## Tools
+- 3D Printer
+- Hacksaw
+- Allen Keys
+-- 2.0mm
+-- 2.5mm
+-- 3.0mm
 
 ## Bill of Materials
 | Quantity | Part Name | Specifications |
