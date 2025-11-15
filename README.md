@@ -288,7 +288,52 @@ Check the project out here: (https://github.com/aidanahn/pacer_v3_control)
 - **Supports:** Yes (Automatic)
 - **Material:** PETG
 
-![Steering Mount](print-orientation-previews/dogbone.png)
+![Dogbone](print-orientation-previews/dogbone.png)
+
+### Front Gearbox Cover
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** Yes (Automatic)
+- **Material:** PETG
+
+![Front Gearbox Cover](print-orientation-previews/front-gearbox-cover.png)
+
+### Rear Gearbox Cover
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** No
+- **Material:** PETG
+
+![Rear Gearbox Cover](print-orientation-previews/rear-gearbox-cover.png)
+
+### Front Gearbox Cup
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** Yes (Automatic)
+- **Material:** PETG
+
+![Front Gearbox Cup](print-orientation-previews/front-gearbox-cup.png)
+
+### Rear Gearbox Cup
+**Recommended Print Settings:**
+- **Layer Height:** 0.2mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** Yes (Automatic)
+- **Material:** PETG
+
+![Rear Gearbox Cup](print-orientation-previews/rear-gearbox-cup.png)
+
+### Shaft Coupling
+**Recommended Print Settings:**
+- **Layer Height:** 0.1mm
+- **Infill:** 30% (Gyroid)
+- **Supports:** Yes (Automatic)
+- **Material:** PETG
+
+![Shaft Coupling](print-orientation-previews/shaft-coupling.png)
 
 ## License
 This work is licensed under a [MIT License](LICENSE).
