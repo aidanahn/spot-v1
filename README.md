@@ -3,10 +3,11 @@
 ## Table of Contents
 1. [Description](#description)
 2. [Milo](#milo-wip)
-3. [Fastener List](#fastener-list)
-4. [Printing List](#printing-list)
-5. [Printing Orientations](#printing-orientations)
-6. [License](#license)
+3. [Bill of Materials](#bill-of-materials)
+4. [Fastener List](#fastener-list)
+5. [Printing List](#printing-list)
+6. [Printing Orientations](#printing-orientations)
+7. [License](#license)
 
 ## Description
 A fast and reliable 4WD 3D-printable RC car design
@@ -17,6 +18,27 @@ Assembly: [Onshape Link](https://cad.onshape.com/documents/7f341d22941a2e14df29c
 Track & Field pacer designed to run consistent lap times and help with pacing during training (Uses the same car design from Spot V1).
 
 Check the project out here: (https://github.com/aidanahn/pacer_v3_control)
+
+## Bill of Materials
+| Quantity | Part Name | Specifications |
+| -------- | --------- | -------------- |
+| 19 | 10x15x4mm Bearing | |
+| 4 | 5x10x4mm Bearing | |
+| 1 | 8x12x3.5mm Bearing | |
+| 2 | 200mm M3 Rod | |
+| 4 | M3 Tie Rod End | |
+| 1 | 35kg Servo | |
+| 1 | Motor | Motor mount built for [QUICRUN Fusion SE (2in1 FOC system)](https://www.hobbywingdirect.com/collections/quicrun-brushless-system/products/quicrun-fusion-se?variant=40597819687027) |
+| 1 | RC Reciever | |
+| 1 | ESC | |
+| 4 | Wheels | Wheel Hub built for 14mm hex wheels |
+| 1 | LiPo Battery | |
+| 1 | 20T Timing Pulley | Must have 8mm bore |
+| 1 | 40T Timing Pulley | Must have 8mm bore |
+| 1 | 120mm Timing Belt | |
+| 2 | Differential | The differential case is specifically built to house [this differential](https://www.amazon.com/Mirthobby-Housing-Complete-Volcano-Unassembled/dp/B07YWQ7G9Q/ref=sr_1_2?crid=120SX2JJB19G8&dib=eyJ2IjoiMSJ9.33F9OBaOHew5W4RdIgIT8X4wohB-sg_cNoxQfsjSMgC9Iu6UPFytD5IsZh7P77GqP3551A3cl3MnuLXouAXjL8vT_2xdx4DwFk4udb2Rkpay-61vzazRKnvu68DCF65ZKhIXFBkuB7AbRnq9-1PwSMdbo6bRXLievlYcwU7kJcH_OPOjj0zFwtZJtRFuX3_Iy1suDH0gfuCx_OV-0JtjTMa7RCTh82-czOiO7qfA_Pb3auwBFaDTBSd2OVFeIqxgxmvzhMt31SDKiKjgDfR9jvabUe987K1m55aIbMKbN2Y.18lharDqPtgLe8TvVLMhEvjtnqf0QMlwB2jPrXMnh1Y&dib_tag=se&keywords=differential+1%2F10&qid=1763222926&sprefix=differential+1%2F10%2Caps%2C110&sr=8-2) |
+| | PETG Filament | |
+| | Grease | |
 
 ## Fastener List
 | Quantity | Size | Length | Head | Type |
