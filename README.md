@@ -21,17 +21,18 @@ Check the project out here: (https://github.com/aidanahn/pacer_v3_control)
 ## Fastener List
 | Quantity | Size | Length | Head | Type |
 | -------- | ---- | ------ | ---- | ---- |
-| 20 | M3 | 16mm | Socket Head | Screw |
+| 16 | M3 | 16mm | Socket Head | Screw |
 | 18 | M3 | 12mm | Socket Head | Screw |
-| 12 | M3 | 12mm | Button Head | Screw |
+| 14 | M3 | 12mm | Button Head | Screw |
 | 2 | M3 | 20mm | Socket Head | Screw |
-| 11 | M3 | 25mm | Socket Head | Screw |
+| 15 | M3 | 25mm | Socket Head | Screw |
 | 8 | M3 | 35mm | Socket Head | Screw |
 | 6 | M3 | | | Washer |
 | 16 | M3 | 4mm | Socket Head | Screw |
-| 12 | M3 | | | Nut |
+| 13 | M3 | | | Nut |
 | 4 | M3 | 8mm | Button Head | Screw |
 | 4 | M3 | 16mm | Button Head | Screw |
+| 1 | M3 | 30mm | Socket Head | Screw |
 | 4 | M4 | 20mm | Socket Head | Screw |
 | 4 | M4 | | | Nylon Locknut |
 
@@ -50,7 +51,7 @@ Check the project out here: (https://github.com/aidanahn/pacer_v3_control)
 | 1 | [Rear Right Lower Control Arm](cad/Rear_Right_Lower_Control_Arm.step) | Lower suspension arm that connects uprights to the chassis |
 | 1 | [Front Left Lower Control Arm](cad/Front_Left_Lower_Control_Arm.step) | Lower suspension arm that connects uprights to the chassis |
 | 1 | [Front Right Lower Control Arm](cad/Front_Right_Lower_Control_Arm.step) | Lower suspension arm that connects uprights to the chassis |
-| 1 | [Electronics Bed](cad/Electronics_Bed.step) | Strengthens connection between front and rear chassis and acts as mounting plate for electronics (ESC, reciever, LiPo, etc) |
+| 1 | [Electronics Bed](cad/Electronics_Bed.step) | Strengthens connection between front and rear chassis and acts as mounting plate for electronics (ESC, receiver, LiPo, etc) |
 | 4 | [Differential Drive Cup Adapter](cad/Differential_Drive_Cup_Adapter.step) | Adapter between differential output and drive cup |
 | 4 | [Differential Drive Cup](cad/Differential_Drive_Cup.step) | Cup that connects differential output to drive the wheels |
 | 2 | [Front Upright](cad/Front_Upright.step) | Front wheel carrier that allows the steering knuckles to pivot and houses the wheel drive cup |
@@ -61,11 +62,16 @@ Check the project out here: (https://github.com/aidanahn/pacer_v3_control)
 | 1 | [Servo Mount](cad/Servo_Mount.step) | Holds servo securely in place |
 | 1 | [Servo Steering Linkage](cad/Servo_Steering_Linkage.step) | Transmits servo power to the steering bar |
 | 1 | [Steering Bar](cad/Steering_Bar.step) | Main steering bar linking left and right wheels |
-| 1 | [Steering Linkage](cad/Steering_Linkage.step) | Follows same motion as the steering linkage to keep the steering bar in place |
+| 1 | [Steering Linkage](cad/Steering_Linkage.step) | Follows the same motion as the steering linkage to keep the steering bar in place |
 | 4 | [Wheel Drive Cup](cad/Wheel_Drive_Cup.step) | Connects wheel hubs to the differential output cups |
 | 4 | [Wheel Hub](cad/Wheel_Hub.step) | Mounting point for wheels |
 | 1 | [Steering Mount](cad/Steering_Mount.step) | Allows the steering linkage to pivot around its axis |
 | 4 | [Dogbone](cad/Dogbone.step) | Transfers power directly from the differential drive cup to the wheel drive cup |
+| 1 | [Front Gearbox Cover](cad/Front_Gearbox_Cover.step) | Covers the frontside of the belt drive system |
+| 1 | [Rear Gearbox Cover](cad/Rear_Gearbox_Cover.step) | Covers the rearside of the belt drive system |
+| 1 | [Front Gearbox Cup](cad/Front_Gearbox_Cup.step) | Outputs power to the front differential set |
+| 1 | [Rear Gearbox Cup](cad/Rear_Gearbox_Cup.step) | Outputs power to the rear differential set |
+| 1 | [Shaft Coupling](cad/Shaft_Coupling.step) | Mounts onto motor shaft to transfer power to timing pulleys |
 
 ## Printing Orientations
 ### Front Chassis
