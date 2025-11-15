@@ -24,9 +24,9 @@ Check the project out here: (https://github.com/aidanahn/pacer_v3_control)
 - 3D Printer
 - Hacksaw
 - Allen Keys
--- 2.0mm
--- 2.5mm
--- 3.0mm
+  - 2.0mm
+  - 2.5mm
+  - 3.0mm
 
 ## Bill of Materials
 | Quantity | Part Name | Specifications |
