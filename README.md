@@ -189,9 +189,10 @@ Check the project out here: (https://github.com/aidanahn/pacer_v3_control)
 ### Electronics Bed
 **Recommended Print Settings:**
 - **Layer Height:** 0.2mm
-- **Infill:** 30% (Gyroid)
-- **Supports:** No
+- **Infill:** 15% (Gyroid)
+- **Supports:** Yes (Automatic)
 - **Material:** PETG
+- **Brim:** Outer brim only
 
 ![Electronics Bed](print-orientation-previews/electronics-bed.png)
 
