@@ -126,18 +126,20 @@ Check the project out here: (https://github.com/aidanahn/pacer_v3_control)
 ### Right Reinforcement Beam
 **Recommended Print Settings:**
 - **Layer Height:** 0.2mm
-- **Infill:** 30% (Gyroid)
+- **Infill:** 15% (Gyroid)
 - **Supports:** No
 - **Material:** PETG
+- **Brim:** Outer brim only
 
 ![Right Reinforcement Beam](print-orientation-previews/right-reinforcement-beam.png)
 
 ### Left Reinforcement Beam
 **Recommended Print Settings:**
 - **Layer Height:** 0.2mm
-- **Infill:** 30% (Gyroid)
+- **Infill:** 15% (Gyroid)
 - **Supports:** No
 - **Material:** PETG
+- **Brim:** Outer brim only
 
 ![Left Reinforcement Beam](print-orientation-previews/left-reinforcement-beam.png)
 
