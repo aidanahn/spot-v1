@@ -117,9 +117,10 @@ Check the project out here: (https://github.com/aidanahn/pacer_v3_control)
 ### Rear Chassis
 **Recommended Print Settings:**
 - **Layer Height:** 0.2mm
-- **Infill:** 30% (Gyroid)
+- **Infill:** 15% (Gyroid)
 - **Supports:** Yes (Manual)
 - **Material:** PETG
+- **Brim:** Outer brim only
 
 ![Rear Chassis](print-orientation-previews/rear-chassis.png)
 
