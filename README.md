@@ -144,9 +144,10 @@ Check the project out here: (https://github.com/aidanahn/pacer_v3_control)
 ### Lower Differential Case
 **Recommended Print Settings:**
 - **Layer Height:** 0.2mm
-- **Infill:** 30% (Gyroid)
+- **Infill:** 15% (Gyroid)
 - **Supports:** Yes (Manual)
 - **Material:** PETG
+- **Brim:** Outer brim only
 
 ![Lower Differential Case](print-orientation-previews/lower-differential-case.png)
 
@@ -236,9 +237,10 @@ Check the project out here: (https://github.com/aidanahn/pacer_v3_control)
 ### Pinion Carrier
 **Recommended Print Settings:**
 - **Layer Height:** 0.2mm
-- **Infill:** 30% (Gyroid)
+- **Infill:** 15% (Gyroid)
 - **Supports:** No
 - **Material:** PETG
+- **Brim:** Outer brim only
 
 ![Pinion Carrier](print-orientation-previews/pinion-carrier.png)
 
