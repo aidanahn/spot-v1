@@ -176,6 +176,7 @@ Check the project out here: (https://github.com/aidanahn/pacer_v3_control)
 - **Infill:** 30% (Gyroid)
 - **Supports:** No
 - **Material:** PETG
+- **Brim:** Outer brim only
 
 ![Upper Control Arm](print-orientation-previews/upper-control-arm.png)
 
@@ -185,6 +186,7 @@ Check the project out here: (https://github.com/aidanahn/pacer_v3_control)
 - **Infill:** 30% (Gyroid)
 - **Supports:** No
 - **Material:** PETG
+- **Brim:** Outer brim only
 
 ![Lower Control Arm](print-orientation-previews/lower-control-arm.png)
 
